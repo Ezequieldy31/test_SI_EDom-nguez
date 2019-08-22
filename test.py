@@ -6,3 +6,4 @@ print("Tu edad es de",edad)
 
 #Teléfono
 teléfono=5548754313
+#Hola como estas
